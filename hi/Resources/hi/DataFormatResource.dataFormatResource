@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jndi:namedResource xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:_9e316551-9df3-4abb-adb2-45d4a67178d7="http://ns.tibco.com/bw/palette/dataformat/9e316551-9df3-4abb-adb2-45d4a67178d7" xmlns:dataformat="http://ns.tibco.com/bw/palette/dataformat" xmlns:jndi="http://xsd.tns.tibco.com/amf/models/sharedresource/jndi" xmi:id="_cUz1IPmwEempH7vAk5V7zw" name="hi.DataFormatResource" type="dataformat:DataFormat">
+  <imports xmi:id="_-T04UPmwEempH7vAk5V7zw" importType="http://www.w3.org/2001/XMLSchema" namespace="http://ns.tibco.com/bw/palette/dataformat/9e316551-9df3-4abb-adb2-45d4a67178d7"/>
+  <jndi:configuration xsi:type="dataformat:DataFormat" xmi:id="_cU2RYPmwEempH7vAk5V7zw" formatType="Delimiter separated" colSeparator="," colSeparatorParseRule="Treat all characters as entered as a single column separator string" lineSeparator="New Line" fillCharacter="Space" schemaElementQName="_9e316551-9df3-4abb-adb2-45d4a67178d7:details" fieldOffsetsStr="name(0,0)&#xA;mie(0,0)">
+    <fieldOffsets xmi:id="_-VAkEPmwEempH7vAk5V7zw" name="name"/>
+    <fieldOffsets xmi:id="_-VAkEfmwEempH7vAk5V7zw" name="mie"/>
+  </jndi:configuration>
+</jndi:namedResource>
